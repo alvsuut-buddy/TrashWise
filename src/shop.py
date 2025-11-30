@@ -1,0 +1,16 @@
+import os
+def toko() :
+    os.system("cls")
+    print("╔══════════════════════════════════════════════════════════╗")
+    print("║                                                          ║")
+    print("║             Silahkan klik link di bawah ini              ║")
+    print("║                 untuk melihat toko kami                  ║")
+    print("║                                                          ║")
+    print("║               http://bit.ly/TrashWise-idn                ║")
+    print("║                                                          ║")
+    print("╚══════════════════════════════════════════════════════════╝")
+    print("")
+    print("============================================================")        
+    print("      >>>  Tekan enter untuk kembai ke menu utama  <<<          ")
+    print("============================================================")
+    back = input(" ")
