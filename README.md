@@ -1,3 +1,3 @@
 # 🌟📖 TrashWise
 
-TrashWise adalah aplikasi yang dirancang untuk meningkatkan kesadaran masyarakat tentang pengelolaan sampah. TrashWise hadir sebagai solusi digital sederhana untuk membantu pengguna memahami konsep 3R (Reuse, Reduce, Recycle).
+TrashWise is an application designed to raise public awareness about waste management. TrashWise serves as a simple digital solution to help users understand the 3R concepts (Reuse, Reduce, Recycle)
